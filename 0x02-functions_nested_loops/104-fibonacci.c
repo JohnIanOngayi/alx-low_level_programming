@@ -1,29 +1,32 @@
 #include <stdio.h>
 /**
  * main - This is the entry point
- * Description: Prints 98 fibonacci numbers
+ * Description: Prints the sum of even fibonacci numbers
+ *      less than 4000000
  * Return: A zero integer value
  */
 int main(void)
 {
-	int count = 3;
-	long int first = 1;
-	long int second = 2;
-	long int next = first + second;
+	int count;
+	long int first;
+	long int second;
+	long int next;
+	int iterate;
 
-	printf("%lu, ", first);
-	printf("%lu, ", second);
-	while (count <= 98)
+	first = 1;
+	second = 2;
+	count = 98;
+	printf("%lu, %lu, ", first, second);
+	for (iterate = 3; iterate <= count; iterate++)
 	{
-		if (count == 98)
-			printf("%lu\n", next);
-		else
-			printf("%lu, ", next);
+		next = first + second;
+		printf("%lu", next);
 		first = second;
 		second = next;
-		next = first + second;
-		count++;
+		if (iterate == count)
+			break;
+		printf(", ");
 	}
+	printf("\n");
 	return (0);
 }
-

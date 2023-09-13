@@ -17,7 +17,7 @@ void times_table(void)
 		{
 			prod = num * mul;
 			if (mul == 0)
-				putchar(mul + 0);
+				printf("%d", 0);
 			else
 			{
 				if ((prod / 100) == 0)

@@ -14,7 +14,7 @@ int main(void)
 	Fibonacci[0] = 1;
 	Fibonacci[1] = 2;
 	n = 2;
-	sum =  0;
+	sum =  2;
 
 	while (Fibonacci[n - 1] < 4000000)
 	{

@@ -17,8 +17,10 @@ void times_table(void)
 		{
 			prod = num * mul;
 			if (mul == 0)
-				printf("%d", 0);
-			if (prod != 0)
+				printf("%1.0d", 0);
+			if (prod == 0)
+				printf("%3.0d", 0);
+			else
 			{
 				if ((prod / 100) == 0)
 				{
@@ -38,10 +40,15 @@ void times_table(void)
 				}
 			}
 			_putchar((prod % 10) + '0');
-			else if (mul == 9)
+			if (mul == 9)
 				continue;
-		:wq_putchar(',');
+		_putchar(',');
 		}
 	_putchar('\n');
 	}
+}
+int main(void)
+{
+    times_table();
+    return (0);
 }

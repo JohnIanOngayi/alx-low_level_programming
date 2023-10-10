@@ -1,38 +1,33 @@
-#0-positive_or_negative.c
-This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.
 
-#1-last_digit.c
-This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n.
+# Programming in C   🖥️
 
-#2-print_alphabet.c
-Write a program that prints the alphabet in lowercase, followed by a new line.
+____
+This repository contains all of the low level programming I did at ALX SE school. The repisitory contains various project folders. Each folder contains C files, a README file and comprehensive commit messages.
 
-#3-print_alphabets.c
-Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+## Projects
 
-#4-print_alphabt.c
-Write a program that prints the alphabet in lowercase, followed by a new line.
+A brief overview of each project directory:
+|**Directory**|**Description**|
+|:-|:-|
+|[0x00-hello_world](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x00-hello_world)|Introduction to C programming
+|[0x01-variables_if_else_while](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x01-variables_if_else_while)|Application of if/else , for and while loops |
+|[0x02-functions_nested_loops](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x02-functions_nested_loops)|Use of nested loop in C|
+|[0x03-debugging](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x03-debugging)|Debugging C code|
+|[0x04-more_functions_nested_loops](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)|Use of nested loops in C|
+|[0x05-pointers_arrays_strings](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)|An introduction to pointers in C|
+|[0x06-pointers_arrays_strings](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)|Elementary Pointer Arithmetics and Manipulation|
+|[0x07-pointers_arrays_strings](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)|More applications of pointers in arrays and strings|
+|[0x08-recursion](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x08-recursion)|Applicationss of recursion in C|
+|[0x09-static_libraries](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x09-static_libraries)|Making and using static C libraries|
+|[0x0A-argc_argv](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0A-argc_argv)|Use of command line arguments|
+|[0x0B-malloc_free](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0B-malloc_free)|An introduction to dynamic memory allocation|
+|[0x0C-more_malloc_free](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0C-more_malloc_free)|Allocating and freeing memory dynamically|
+|[0x0D-preprocessor](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0D-preprocessor)|Preprocessor directives, header files and Macros|
+|[0x0E-structures_typedef](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0E-structures_typedef)|Structs and typedefs in C|
 
-#5-print_numbers.c
-Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+## Usage and detailed explanations
 
-#6-print_numberz.c
-Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+Click on the permalinks provided in the table above or clone or fork this repository.  
+Explore different directories🚶 run🏃 and modify :toolbox: the code using your favorite editor.
 
-#7-print_tebahpla.c
-Write a program that prints the lowercase alphabet in reverse, followed by a new line.
-
-#8-print_base16.c
-Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
-
-#9-print_comb.c
-Write a program that prints all possible combinations of single-digit numbers.
-
-#100-print_comb3.c
-Write a program that prints all possible different combinations of two digits.
-
-#101-print_comb4.c
-Write a program that prints all possible different combinations of three digits.
-
-#102-print_comb5.c
-Write a program that prints all possible combinations of two two-digit numbers.
+For more detailed explanations, do refer to the project commit messages. Happy coding :sunglasses:

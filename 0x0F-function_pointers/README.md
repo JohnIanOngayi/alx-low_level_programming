@@ -11,7 +11,7 @@ This project folder contains C files that illustrate the concept of function poi
 - Prototype:
 
 ```c
-    void print_name(char *name, void (*f)(char *));
+ void print_name(char *name, void (*f)(char *));
 ```
 
 ----
@@ -40,7 +40,7 @@ int int_index(int *array, int size, int (*cmp)(int));
 
 ----
 
-## Task 3
+## Task 3 
 
 - A function that performs simple operations.
 - Files: 

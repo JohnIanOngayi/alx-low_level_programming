@@ -23,6 +23,7 @@ A brief overview of each project directory:
 |[0x0C-more_malloc_free](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0C-more_malloc_free)|Allocating and freeing memory dynamically|
 |[0x0D-preprocessor](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0D-preprocessor)|Preprocessor directives, header files and Macros|
 |[0x0E-structures_typedef](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0E-structures_typedef)|Structs and typedefs in C|
+|[0x0F-function_pointers](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0F-function_pointers)|Working with pointers to functions|
 
 ## Usage and detailed explanations
 

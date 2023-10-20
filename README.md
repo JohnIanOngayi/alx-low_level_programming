@@ -25,7 +25,7 @@ A brief overview of each project directory:
 |[0x0E-structures_typedef](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0E-structures_typedef)|Structs and typedefs in C|
 |[0x0F-function_pointers](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x0F-function_pointers)|Working with pointers to functions|
 |[0x10-variadic_functions](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x10-variadic_functions)|Implementation and functionality of variadic functions|
-
+|[0x12-singly_linked_lists](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x12-singly_linked_lists)|Implementation of data structures|
 ## Usage and detailed explanations
 
 Click on the permalinks provided in the table above or clone or fork this repository.  

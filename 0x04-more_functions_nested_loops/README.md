@@ -27,34 +27,6 @@ A brief overview of the tasks tackled in this project folder:
 - A function that multiplies two integers
 - File: 2-mul.c
 
-=======
-# 0x04-more_functions_nested_loops ➰
-
-This project folder contains more on loops in C.
-
-----
-
-## Tasks
-
-A brief overview of the tasks tackled in this project folder:
-
-----
-
-### [Task 0](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/0-isupper.c)
-
-- A function that checks for uppercase character.
-- File: 0-isupper.c
-
-### [Task 1](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/1-isdigit.c)
-
-- A function that checks for uppercase character.
-- File: 1-isdigit.c
-
-### [Task 2](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/2-mul.c)
-
-- A function that multiplies two integers
-- File: 2-mul.c
-
 >>>>>>> 69714ec150676debfeface10fc63883a4802bd7d
 ### [Task 3](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/3-print_numbers.c)
 

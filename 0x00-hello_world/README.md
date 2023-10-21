@@ -1,4 +1,4 @@
-#0x00-hello_world 🌤️
+# 0x00-hello_world 🌤️
 
 This repository folder contains programs that illustrate the most basic introduction to C programming.
 

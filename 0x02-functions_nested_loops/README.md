@@ -1,50 +1,76 @@
-#0-putchar.c
-a program that prints _putchar, followed by a new line
+# 0x02-functions_nested_loops ♾️
 
-#1-alphabet.c
-a function that prints the alphabet, in lowercase, followed by a new line
+The programs in this project folder intend to build on loops introduced in the prior folder.
 
-#2-print_alphabet_x10.c
-a function that prints 10 times the alphabet, in lowercase, followed by a new line
+----
 
-#3-islower.c
-a function that checks for lowercase character
+## Tasks
 
-#4-isalpha.c
-a function that checks for alphabetic character
+A brief description of what is contained in the files in this project folder.
 
-#5-sign.c
- a function that prints the sign of a number
+----
 
-#6-abs.c
- a function that computes the absolute value of an integer
+### [0-putchar.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/0-putchar.c)
 
-#7-print_last_digit.c
- a function that prints the last digit of a number
+A program that prints _putchar, followed by a new line
 
-#8-24_hours.c
- a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59
 
-#9-times_table.c
- a function that prints the 9 times table, starting with 0
+### [1-alphabet.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/1-alphabet.c)
 
-#10-add.c
- a function that adds two integers and returns the result
+A function that prints the alphabet, in lowercase, followed by a new line
 
-#11-print_to_98.c
- a function that prints all natural numbers from n to 98, followed by a new line
+### [2-print_alphabet_x10.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/2-print_alphabet_x10.c)
 
-#100-times_table.c
- a function that prints the n times table, starting with 0
+A function that prints 10 times the alphabet, in lowercase, followed by a new line
 
-#101-natural.c
- a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line
+### [3-islower.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/3-islower.c)
 
-#102-fibonacci.c
- a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line
+A function that checks for lowercase character
 
-#103-fibonacci.c
- a program that finds and prints the sum of the even-valued terms, followed by a new line
+### [4-isalpha.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/4-isalpha.c)
 
-#104-fibonacci.c
- a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line
+A function that checks for alphabetic character
+
+### [5-sign.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/5-sign.c)
+
+A function that prints the sign of a number
+
+### [6-abs.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/6-abs.c)
+
+A function that computes the absolute value of an integer
+
+### [7-print_last_digit.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/7-print_last_digit.c)
+
+A function that prints the last digit of a number
+
+### [8-24_hours.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/8-24_hours.c)
+
+A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59
+
+### [9-times_table.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/9-times_table.c)
+
+A function that prints the 9 times table, starting with 0
+
+### [10-add.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/10-add.c)
+
+A function that adds two integers and returns the result
+
+### [11-print_to_98.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/11-print_to_98.c)
+
+A function that prints all natural numbers from n to 98, followed by a new line
+
+### [101-natural.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/101-natural.c)
+
+A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line
+
+### [102-fibonacci.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/102-fibonacci.c)
+
+A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line
+
+### [103-fibonacci.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/103-fibonacci.c)
+
+A program that finds and prints the sum of the even-valued terms, followed by a new line
+
+### [104-fibonacci.c](https://github.com/JohnIanOngayi/alx-low_level_programming/blob/master/0x02-functions_nested_loops/104-fibonacci.c)
+
+A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line

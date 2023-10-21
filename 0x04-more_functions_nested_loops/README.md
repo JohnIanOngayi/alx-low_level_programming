@@ -1,5 +1,3 @@
-----
-
 # 0x04-more_functions_nested_loops ➰
 
 This project folder contains more on loops in C.

@@ -29,6 +29,7 @@ A brief overview of each project directory:
 |[0x13-more_singly_linked_lists](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)|Manipulation of singly linked lists|
 |[0x14-bit_manipulation](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x14-bit_manipulation)|Elementary applications of bit manipulation|
 |[0x15-file_io](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x15-file_io)|Elementary manipulation of files using system calls|
+|[0x17-doubly_linked_lists](https://github.com/JohnIanOngayi/alx-low_level_programming/tree/master/0x17-doubly_linked_lists)|Elementary manipulation of Doubly Linked Lists|
 
 ## Usage and detailed explanations
 
